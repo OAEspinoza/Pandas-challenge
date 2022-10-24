@@ -6,18 +6,26 @@ In this report, district-wide standardized test results and spending data was us
 
 Major conclusions are detailed in the following sections.
 ## District Summary
+<br>
+
+- Total Schools	15
+- Total Students	39,170
+- Total Budget	$24,649,428 
+- Average Math Score	79
+- Average Reading Score	81.9
+- % Passing Math	75.00%
+- % Passing Reading	85.80%
+- % Overall Passing	65.20%
 
 
-![image](Images/DistrictSummary.png)
-Table 1. District summar.
-
+<br>
 
 ## Per-School Summary
 
-In this section the key indicators about each school were generated. Table 2 shows a summary.
+In this section the key indicators about each school were generated. Table 1 shows a summary.
 
-![image](Images/PerSchoolSummary.png)
-Table 2. Per school summary table.
+![image](PyCitySchools/Images/PerSchoolSummary.png)
+Table 1. Per school summary table.
 
 
 
@@ -30,16 +38,16 @@ A number of comparisons were carried out between the schools in the district, in
 - Scores by school size (by school and for the overall district)
 - Scores by school type
 
-![image](Images/SpendingSummary.png)
-Table 3. Scores by per capita spending.
+![image](PyCitySchools/Images/SpendingSummary.png)
+Table 2. Scores by per capita spending.
 
 
-![image](Images/SchoolSizeSummary.png)
-Table 4. Scores by school size.
+![image](PyCitySchools/Images/SchoolSizeSummary.png)
+Table 3. Scores by school size.
 
 
-![image](Images/SchoolTypeSummary.png)
-Table 5. Scores by school type.
+![image](PyCitySchools/Images/SchoolTypeSummary.png)
+Table 4. Scores by school type.
 
 
 # Conclusions
